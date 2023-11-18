@@ -1,0 +1,43 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #beaa9f;
+}
+
+.naglowek {
+    text-align: center;
+    color: white;
+    height: 60px;
+    background-color: #4e1b00;
+}
+
+.lewy {
+    width: 60%;
+    float: left;
+}
+
+.prawy {
+    font-size: 200%;
+    padding: 50px;
+}
+
+.dolny {
+    background-color: #c49680;
+    text-align: center;
+    padding: 30px;
+    clear: both;
+}
+
+.stopka {
+    height: 60px;
+    background-color: #4e1b00;
+    color: white;
+}
+
+.naglowek h1 {
+    margin: 0;
+}
+
+.stopka p {
+    margin: 0;
+}
