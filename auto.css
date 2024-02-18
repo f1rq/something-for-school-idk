@@ -1,0 +1,40 @@
+.baner {
+    background-color: #45517D;
+    color: white;
+    font-size: 120%;
+    height: 7vh;
+    text-align: right;
+}
+
+.lewa {
+    background-color: #61B2Ec;
+    width: 50%;
+    float: left;
+    height: 80vh;
+}
+
+.prawa {
+    background-color: #8EC9F2;
+    width: 50%;
+    float: right;
+    height: 80vh;
+}
+
+.stopka {
+    background-color: #45517D;
+    color: white;
+    font-size: 150%;
+    text-align: center;
+}
+
+.stopka table {
+    width: 100%;
+}
+
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: green;
+}
