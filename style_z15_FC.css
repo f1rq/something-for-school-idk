@@ -1,0 +1,24 @@
+
+.obrazy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.obrazek {
+    width: calc(33.33% - 10px);
+    margin-bottom: 20px;
+}
+.obrazek img {
+    width: 80%;
+    height: auto;
+}
+@media screen and (max-width: 768px) {
+    .obrazek {
+        width: calc(50% - 10px);
+    }
+}
+@media screen and (max-width: 480px) {
+    .obrazek {
+        width: 100%;
+    }
+}
